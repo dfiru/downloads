@@ -1,5 +1,10 @@
-# categories.py
+"""Module for organizing files into categories based on their extensions.
 
+This module contains a dictionary 'file_organization' that maps categories
+like Archives, Documents, Images, etc., to a list of associated file extensions.
+This can be used to organize files in a filesystem into corresponding folders
+based on their file types.
+"""
 file_organization = {
     "Archives": [".zip", ".tar.gz", ".tgz"],
     "Documents": [".xlsx", ".docx", ".doc", ".xls", ".ppt", ".pptx", ".pdf"],
