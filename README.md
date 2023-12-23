@@ -1,6 +1,6 @@
-# Project Title
+# Downloads Organizer
 
-One Paragraph of project description goes here
+Keeps your Downloads folder sane 
 
 ---
 
