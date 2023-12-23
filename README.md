@@ -133,4 +133,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Contact
 
-Your Name - [@danfiru](https://twitter.com/danfiru)
+Daniel Firu - [@danfiru](https://twitter.com/danfiru)
